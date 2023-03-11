@@ -11,7 +11,7 @@ const Header = () =>{
   <a href="https://cdnlogo.com/logo/pokemon_52911.html"><img src="https://cdn.cdnlogo.com/logos/p/33/pokemon.svg"/></a>
   </div>  
   <nav className="searchContainer">
-    <input type="search" className='search' placeholder='Search bye name'></input>
+    <input type="search" className='search' placeholder='Search bye name' ></input>
     <button className='btn'>&#128269;</button>
   </nav>
 </header>
